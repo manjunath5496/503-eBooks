@@ -16,7 +16,7 @@
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf4.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>PHYSICS by Aristotle (350 BC)</p>
+<p>Physics by Aristotle (350 BC)</p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf6.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
@@ -24,11 +24,11 @@
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf6.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>THE VOYAGE OF THE BEAGLE by Charles Darwin (1839)</p>
+<p>The Voyage Of The Beagle by Charles Darwin (1839)</p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf7.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>THE DOUBLE HELIX by James D. Watson</p>
+<p>The Double Helix by James D. Watson</p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf8.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
@@ -40,15 +40,15 @@
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf10.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>SILENT SPRING by Rachel Carson</p>
+<p>Silent Spring by Rachel Carson</p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf11.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>THE MISMEASURE OF MAN by STEPHEN JAY GOULD</p>
+<p>The Mismeasure Of Man By Stephen Jay Gould</p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf12.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>UNDER A LUCKY STAR by Roy Chapman Andrews</p>
+<p>Under A Lucky Star By Roy Chapman Andrews</p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf13.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
@@ -60,15 +60,15 @@
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf15.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>HYPERSPACE: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension by Michio Kaku </p>
+<p>Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension by Michio Kaku </p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf16.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>THE THEORY OF EVERYTHING by STEPHEN HAWKING</p>
+<p>The Theory Of Everything By Stephen Hawking</p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf17.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p>COSMOS by Carl Sagan </p>
+<p>Cosmos by Carl Sagan </p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf16.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
