@@ -1508,4 +1508,13 @@
 <p>Grimms' Fairy Tales by The Brothers Grimm</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf357.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
+<p>Resisting Happiness</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/r1.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Reference Manual on Scientific Evidence</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/r2.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Knowledge and Diplomacy</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/r3.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
 
