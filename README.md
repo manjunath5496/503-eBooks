@@ -1,8 +1,7 @@
-
-			<table width="100%" id="tblData" class="target" bgcolor="#ACAAFC">
+<table width="100%" id="tblData" class="target" bgcolor="#ACAAFC">
 				<tbody>
 				
-					<tr>
+<tr>
 						<td class="odd">1</td>
 						<td class="odd">The Mathematical Principles of Natural Philosophy by Sir Isaac Newton</td>
 						<td class="odd"><a href="img/pdf1.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a> </td>
