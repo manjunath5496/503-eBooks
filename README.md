@@ -2,17 +2,17 @@
 
 				
 
-						<td class="odd">1</td>
+<td class="odd">1</td>
 						<td class="odd">The Mathematical Principles of Natural Philosophy by Sir Isaac Newton</td>
 						<td class="odd"><a href="img/pdf1.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a> </td>
 					</br>
 					
-						<td class="even">2</td>
-						<td class="even">Micrographia by Robert Hooke</td>
-						<td class="even"><a href="img/pdf2.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></td>
-					</br>
+<td class="even">2</td>
+	<td class="even">Micrographia by Robert Hooke</td>
+	<td class="even"><a href="img/pdf2.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></td>
+	</br>
 					
-						<td class="odd">3</td>
+<td class="odd">3</td>
 						<td class="odd">The Grand Design by Stephen Hawking & Leonard Mlodinow</td>
 						<td class="odd"><a href="img/pdf3.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></td>
 					</br>
