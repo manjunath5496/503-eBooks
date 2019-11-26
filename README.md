@@ -1346,7 +1346,7 @@
 <p>The Collected Papers of Stephen Hawking</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf303.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
-<p>Lehninger Principles of Biochemistry by Albert L. Lehninger, David L. Nelson, and Michael M. Cox</p>
+<p>The Power of Now</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf304.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
 <p>What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe</p>
