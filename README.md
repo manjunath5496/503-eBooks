@@ -720,3 +720,24 @@
 <p> The Electric Kool Aid Acid Test by Tom Wolfe </p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf178.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE WISE MAN'S FEAR by PATRICK ROTHFUSS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf254.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Wizard's First Rule by Terry Goodkind </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf255.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Lions of Al-Rassan by Guy Gavriel Kay </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf256.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> MISTBORN: THE FINAL EMPIRE by Brandon Sanderson </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf257.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+
+
+
+
