@@ -1295,3 +1295,217 @@
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf379.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
 
+<p>Paper Towns by John Green</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf287.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>WATERSHIP DOWN by RICHARD ADAMS</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf288.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>TWENTY THOUSAND LEAGUES UNDER THE SEA by Jules Verne</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf289.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Bully Book by Eric Kahn Gale</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf290.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Chronicles Of Narnia by C.S. Lewis</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf291.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>EINSTEIN ON COSMIC RELIGION AND OTHER OPINIONS &amp; APHORISMS</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf292.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>MURDER ON THE ORIENT EXPRESS by Agatha Christie</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf293.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>ONE NIGHT @ THE CALL CENTER by CHETAN BHAGAT</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf294.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>SIX NOT SO EASY PIECES by RICHARD P. FEYNMAN, Robert B. Leighton &amp; Matthew Sands</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf295.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Revolution 2020 by Chetan Bhagat</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf296.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Fight Club by Chuck Palahniuk</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf297.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Linux FOR DUMmIES by Richard Blum &amp; Dee Ann LeBlanc</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf298.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>PHP, MySQL, Javascript &amp; HTML5 ALL IN ONE FOR DUMmIES by Steve Suehring &amp; Janet Valade</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf299.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>C FOR DUMmIES by Dan Gookin</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf300.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>C++ FOR DUMmIES by Stephen Randy Davis</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf301.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Java FOR DUMmIES by Barry Burd</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf302.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Collected Papers of Stephen Hawking</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf303.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Lehninger Principles of Biochemistry by Albert L. Lehninger, David L. Nelson, and Michael M. Cox</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf304.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf305.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>C: The Complete Reference by Herbert Schildt</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf306.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>C++: The Complete Reference by Herbert Schildt</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf307.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>JAVA: The Complete Reference by Herbert Schildt</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf308.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Girl on the Train by Paula Hawkins</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf309.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>God is a Gamer by Ravi Subramanian</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf310.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Desiring God by John Piper</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf311.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>A History of God by Karen Armstrong</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf312.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Why I Am Not a Christian by Bertrand Russell</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf313.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Breaking the Spell: Religion as a Natural Phenomenon by Daniel Dennett</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf314.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>If God Was a Banker by Ravi Subramanian</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf315.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>There Is a God: How the World's Most Notorious Atheist Changed His Mind by Anthony Flew &amp; Roy Varghese</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf316.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Rich Dad, Poor Dad by Robert T. Kiyosaki</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf317.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Connect the dots by Rashmi Bansal</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf318.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Steve Jobs by Walter Isaacson</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf319.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>THE GOOGLE STORY by David A. Vise &amp; Mark Malseed</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf320.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Democracy's Edge: Choosing to Save Our Country by Bringing Democracy to Life by Frances Moore Lapp&eacute;</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf321.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Zen Mind, Beginner's Mind by Shunryu Suzuki</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf322.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>How Google Works by Eric Schmidt &amp; Jonathan Rosenberg</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf323.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Power of Your Subconscious Mind by Joseph Murphy</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf324.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Physics of Star Trek by Lawrence M. Krauss</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf325.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Hidden Connections: A Science for Sustainable Living by Fritjof Capra</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf326.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Cutting Through Spiritual Materialism by Chogyam Trungpa</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf327.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Tao of Programming by Geoffrey James</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf328.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Collected Papers of Victor Stenger</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf329.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Subatomic Physics by Ernest M Henley &amp; Alejandro Garcia</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf330.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Classical Mechanics by Tom W.B. Kibble &amp; Frank H. Berkshire</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf331.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Physical chemistry in brief by Prof. Ing. Anatol Malijevsky</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf332.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Chemical Kinetics by K.J. LAIDLER</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf333.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Cosmology by Steven Weinberg</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf334.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Quantum ThEORY OF Fields by Steven Weinberg</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf335.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>HISTORY OF THE DECLINE AND FALL OF THE ROMAN EMPIRE by Edward Gibbon</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf336.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Homage to Catalonia by George Orwell</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf337.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>THE HISTORY OF HERODOTUS (Translated into English by G. C. MACAULAY, M.A.)</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf338.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>POSTWAR: A History of Europe Since 1945 by TONY JUDT</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf339.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>A Distant MIRROR by Barbara W. Tuchman</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf340.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>THE THREE MUSKETEERS by Alexandre Dumas, Pere</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf341.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>All Quiet on the Western Front (Translated from the German by A. W. WHEEN FAWCETT CREST)</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf342.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Killer Angels by Michael Shaara</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf343.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Waverley, or 'Tis Sixty Years Since by Walter Scott</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf344.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Ragtime by E. L. Doctorow</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf345.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Salt to the Sea by Ruta Sepetys</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf346.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Red Queen by Victoria Aveyard</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf347.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Introduction to Cosmology by Matts Roos</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf348.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Andersen's Fairy Tales by Hans Christian Andersen</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf349.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Beyond Good and Evil by Friedrich Nietzsche</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf350.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Around the World in 80 Days by Jules Verne</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf351.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Emma by Jane Austen</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf352.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>For the Term of His Natural Life by Marcus Clarke</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf353.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Erewhon Or Over the Range by Samuel Butler</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf354.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Little Women by Louisa May Alcott</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf355.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Kidnapped by Robert Louis Stevenson</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf356.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Grimms' Fairy Tales by The Brothers Grimm</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf357.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+
