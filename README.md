@@ -236,3 +236,487 @@
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf57.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
+
+<p> The Varieties Of Religious Experience: A Study In Human Nature by William James </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf58.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Structure of Scientific Revolutions by Thomas S. Kuhn </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf59.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br> 
+
+<p> GUNS, GERMS AND STEEL by Jared Diamond </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf60.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Journals of Lewis and Clark by Meriwether Lewis </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf61.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Nicholas Copernicus On the Revolutions by Edward Rosen</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf62.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE LOST WORLDS OF 2001 by ARTHUR C. CLARKE </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf63.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Hitchhiker's Guide to the Galaxy by Douglas Adams</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf64.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Starship Troopers by Robert Heinlein </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf65.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Extended Phenotype by Richard Dawkins </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf66.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE GREATEST SHOW ON EARTH by RICHARD DAWKINS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf67.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> DARWIN'S DANGEROUS IDEA by Daniel C. Dennett </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf68.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Dragons of Eden by CARL SAGAN </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf69.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> RIVER OUT OF EDEN by RICHARD DAWKINS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf70.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Panda's Thumb: More Reflections in Natural History by Stephen Jay Gould </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf71.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> "Surely You're Joking, Mr. Feynman!" Adventures of a Curious Character by Richard P. Feynman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf72.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> DEATH BY BLACK HOLE by NEIL DEGRASSE TYSON </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf73.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Neuromancer by William Gibson </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf74.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Snow Crash by Neal Stephenson </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf75.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> CHAOS: Making a New Science by JAMES GLEICK </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf76.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> UNDERSTANDING PHYSICS – Part 1: MOTION, SOUND & HEAT by Isaac Asimov </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf77.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> 2001: A Space Odissey by Arthur C. Clarke </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf78.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Three Roads to Quantum Gravity by Lee Smolin </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf79.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> ENDER'S GAME by Orson Scott Card</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf80.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Immortals of Meluha by Amish</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf81.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> CAT'S CRADLE by Kurt Vonnegut</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf82.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Secret of the Nagas by Amish</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf83.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Old Man's War by John Scalzi</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf84.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE LEFT HAND OF DARKNESS by Ursula K.Leguin</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf85.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The War of the Worlds by H.G. Wells</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf86.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Hyperion by Dan Simmons</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf87.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE FOUNDATION TRILOGY by ISAAC ASIMOV </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf88.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Frankenstein by Mary Wollstonecraft Shelley </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf89.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Shiva Trilogy by Amish </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf90.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Red Mars by Kim Stanley Robinson </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf91.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> A Wrinkle in Time by Madeleine L'Engle </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf92.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE FOREVER WAR by Joe Haldeman</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf93.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Solaris by Stanislaw Lem </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf94.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Alice's Adventures in Wonderland by Lewis Carroll </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf95.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Proofs from THE BOOK by Martin Aigner & Günter M. Ziegler </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf96.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Diamond Age by Neal Stephenson </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf97.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Man Who Knew Infinity by Robert Kanigel </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf98.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Journey through Genius: The Great Theorems of Mathematics by William Dunham </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf99.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> A History of Mathematics by Uta C.Merzbach & Carl B. Boyer</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf100.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Cartoon Guide to Physics by Larry Gonick</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf101.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br> 
+
+<p> GALILEO'S DAUGHTER by DAVA SOBEL</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf102.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> A More PERFECT HEAVEN by DAVA SOBEL</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf103.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The sleepwalkers by Christopher Clark</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf104.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Observer's Sky Atlas by E. Karkoschka </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf105.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> COMING OF AGE IN THE MILKY WAY by TIMOTHY FERRIS</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf86.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> JUST SIX NUMBERS by MARTIN REES </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf87.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The 4 Percent Universe: Dark Matter, Dark Energy, and The Race to Discover the Rest of Reality by Richard Panek </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf108.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>UNWEAVING THE RAINBOW by Richard Dawkins </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf109.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> A DEVIL'S CHAPLAIN by Richard Dawkins </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf110.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Pale Blue Dot: A Vision of the Human Future in Space by Carl Sagan </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf111.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Childhood's End by Arthur C. Clarke </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf112.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Pleasure of Finding Things Out by Richard P. Feynman</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf113.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Man's Search for Meaning by Viktor Frankl </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf114.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Man in The High Castle by Philip K. Dick </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf115.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE MARTIAN CHRONICLES by Ray Bradbury </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf116.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Astronomy with an Opera-glass by Garrett Putman Serviss </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf117.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Thinking, Fast and Slow by Daniel Kahneman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf118.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Paradox of Choice by Barry Schwartz </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf119.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> INTRODUCTION TO ELEMENTARY PARTICLES by David Griffiths</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf120.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>The Magic of Reality: How We Know What's Really True by Richard Dawkins </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf121.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Harry Potter and the Deathly Hallows by J. K. Rowling </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf122.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Harry Potter AND THE ORDER OF THE PHOENIX by J. K. Rowling </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf123.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Harry Potter And the Chamber of Secrets by J. K. Rowling </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf124.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Harry Potter and the Sorcerer's Stone by J. K. Rowling </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf125.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Harry Potter AND THE HALF-BLOOD PRINCE by J. K. Rowling </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf126.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Harry Potter AND THE GOBLET OF FIRE by J. K. Rowling </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf127.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Harry Potter and the Prisoner of Azkaban by J. K. Rowling </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf128.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Methods of Mathematical Physics, Volume 1 by RICHARD COURANT & D. HILBERT </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf129.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Black Holes & Time Warps- Einstein's Outrageous Legacy by KIP S. THORNE </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf130.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE LANGUAGE INSTINCT by STEVEN PINKER </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf131.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Emperor's New Mind by Roger Penrose</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf132.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE DEMON HAUNTED WORLD by Carl Sagan </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf133.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Mysterious Universe by James Jeans</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf134.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> King Solomon’s Ring by Konrad Lorenz</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf135.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE PRINCIPLES OF QUANTUM MECHANICS by P.A.M.DIRAC</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf136.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> War and Peace by Leo Tolstoy</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf137.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Moby Dick by Herman Melville</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf138.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> ULYSSES by James Joyce</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf139.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Don Quixote by Miguel de Cervantes </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf140.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The 100 most influential scientists of all time edited by Kara Rogers </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf141.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> DIVINE COMEDY by DANTE ALIGHIERI </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf142.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Anna Karenina by Leo Tolstoy </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf143.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Crime and Punishment by Fyodor Dostoevsky </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf144.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Invisible Man by Ralph Ellison</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf145.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Beautiful Stories from Shakespeare by Edith Nesbit </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf146.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Tempest by William Shakespeare </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf147.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE TRAGEDY OF ROMEO AND JULIET by William Shakespeare </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf148.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE TRAGEDY OF MACBETH by William Shakespeare</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf149.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Tragedy of Hamlet by William Shakespeare </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf150.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> TALES FROM SHAKESPEARE by CHARLES & MARY LAMB </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf151.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> MY BRIEF HISTORY by STEPHEN HAWKING</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf152.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Born-Einstein Letters translated by Irene Born </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf153.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Little Book of String Theory by Steven S. Gubser</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf154.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Quantum Field Theory by Michio Kaku </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf155.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE MEANING OF RELATIVITY by ALBERT EINSTEIN</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf156.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> ATKINS' PHYSICAL CHEMISTRY by Peter Atkins & Julio de Paula</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf157.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE EVOLUTION OF PHYSICS by A. EINSTEIN & L. INFELD </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf158.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> EINSTEIN ON COSMIC RELIGION AND OTHER OPINIONS & APHORISMS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf159.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE WORLD AS I SEE IT by Albert Einstein </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf160.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>The End of Faith by SAM HARRIS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf161.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE MORAL LANDSCAPE by SAM HARRIS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf162.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The BOOK of SECRETS by DEEPAK CHOPRA </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf163.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> How to Know God: The Soul's Journey Into the Mystery of Mysteries by DEEPAK CHOPRA </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf164.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> SUPER BRAIN by DEEPAK CHOPRA</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf165.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Swann's Way by Marcel Proust </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf166.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE LANGUAGE OF GOD: A Scientist Presents Evidence for Belief by FRANCIS S. COLLINS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf167.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> BILLIONS AND BILLIONS: Thoughts on Life and Death at the Brink of the Millennium by CARL SAGAN </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf168.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Omnivore's Dilemma by MICHAEL POLLAN </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf169.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Musicophilia: Tales of Music and the Brain by Oliver Sacks </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf170.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>The Beauty Myth by Naomi Wolf </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf171.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Capitalism and Freedom by Milton Friedman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf172.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>The House of God by SAMUEL SHEM</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf173.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE BIRTH OF THE CLINIC by MICHEL FOUCAULT </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf174.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> In Cold Blood by Truman Capote </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf175.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Pocket MEDICINE Edited by MARC S. SABATINE </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf176.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Complications:A Surgeon’s Notes on an Imperfect Science by Atul Gawande </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf177.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Electric Kool Aid Acid Test by Tom Wolfe </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf178.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
