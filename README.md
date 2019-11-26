@@ -1226,3 +1226,72 @@
 
 <p>A Journey to the Centre of the Earth by Jules Verne</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf286.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+
+<p>Madame Bovary by Gustave Flaubert</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf358.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Robinson Crusoe by Daniel Defoe</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf359.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Pollyanna by Eleanor H. Porter</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf360.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Of Human Bondage by W. Somerset Maugham</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf361.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Sense and Sensibility by Jane Austen</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf362.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Nostromo: A Tale of the Seaboard by Joseph Conrad</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf363.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Sons and Lovers by D. H. Lawrence</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf364.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Island of Doctor Moreau by H. G. Wells</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf365.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Jungle Book by Rudyard Kipling</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf366.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Idiot by Fyodor Dostoyevsky</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf367.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Hound of the Baskervilles by Arthur Conan Doyle</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf368.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Brothers Karamazov by Fyodor Dostoevsky</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf369.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Merry Adventures of Robin Hood by Howard Pyle</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf370.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Last of the Mohicans by James Fenimore Cooper</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf371.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Three Ghost Stories by Charles Dickens</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf372.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Women in Love by D.H. Lawrence</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf373.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Treasure Island by Robert Louis Stevenson</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf374.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Metamorphosis by Franz Kafka</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf375.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Naked Face by Sidney Sheldon</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf376.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Scarlet Pimpernel by Baroness Orczy</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf377.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>Notes from the Underground by Fyodor Dostoevsky</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf378.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+<p>The Trial by Franz Kafka (Translated by David Wyllie)</p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf379.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+
+
