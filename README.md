@@ -112,7 +112,7 @@
 
 <p>Ideas and Opinions by Albert Einstein</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf38.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
-<p>39</p>
+
 <p>A BRIEFER HISTORY OF TIME by Eric Schulman</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf39.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
