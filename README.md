@@ -934,3 +934,112 @@
 
 
 
+<p> Pride and Prejudice by Jane Austen</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf227.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Autobiography of Charles Darwin 1809-1882 edited by Nora Barlow </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf228.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Autobiography of Benjamin Franklin with introduction and notes edited by Charles W. Eliot </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf229.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> On Writing by Stephen King </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf230.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>NARRATIVE OF THE LIFE OF FREDERICK DOUGLASS, AN AMERICAN SLAVE by FREDERICK DOUGLASS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf231.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE DIARY OF A YOUNG GIRL : THE DEFINITIVE EDITION by Anne Frank </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf232.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Autobiography of Alice B Toklas (1933) by Gertrude Stein </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf233.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> A Moveable Feast by ERNEST HEMINGWAY </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf234.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Autobiography of a Yogi by Paramhansa Yogananda </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf235.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> WINGS OF FIRE by Dr APJ Abdul Kalam </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf236.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Night by Elie Wiesel </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf237.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> I Know Why the Caged Bird Sings by MAYA ANGELOU </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf238.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>The Autobiography of Malcolm X </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf239.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Story of My Life by Helen Keller </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf240.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>The Life of Galileo by Bertolt Brecht </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf241.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Complete Sherlock Holmes by Arthur Conan Doyle </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf242.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p>The Gay Science by FRIEDRICH NIETZSCHE</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf243.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE EXPRESSION OF THE EMOTIONS IN MAN AND ANIMALS by CHARLES DARWIN </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf244.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Thus Spoke Zarathustra by Friedrich Nietzsche </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf245.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Leonardo Da Vinci Thoughts On Art and Life edited by Lewis Einstein </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf246.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Insectivorous Plants by CHARLES DARWIN </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf247.rar" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> American Gods by Neil Gaiman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf248.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The way of Kings by Brandon Sanderson </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf249.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Jonathan Strange & Mr Norrell by Susanna Clarke </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf250.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Magicians by Lev Grossman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf251.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Last Unicorn by Peter S. Beagle </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf252.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Once and Future King by T. H. White </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf253.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+
