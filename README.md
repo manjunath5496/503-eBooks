@@ -914,7 +914,7 @@
 <p>The Prince by Nicolo Machiavelli</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf054.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
-<p>The MAKING of the ENGLISH WORKING CLASS by E.P.Thompson</p>
+<p>Start Where You Are: a guide to compassionate living</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf055.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
 <p>Ways of Seeing by John Berger</p>
