@@ -741,7 +741,7 @@
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf246.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
 <p>Insectivorous Plants by CHARLES DARWIN</p>
-<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf247.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf247.rar" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
 
 <p>American Gods by Neil Gaiman</p>
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf248.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></p>
