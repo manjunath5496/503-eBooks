@@ -1012,7 +1012,7 @@
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf253.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
-<p> THE WISE MAN’S FEAR by PATRICK ROTHFUSS </p>
+<p> THE WISE MAN'S FEAR by PATRICK ROTHFUSS </p>
 
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf254.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
