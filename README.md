@@ -164,4 +164,75 @@
 <p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf39.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
 
+<p> THE UNIVERSE IN A NUTSHELL COSMOS by STEPHEN HAWKING </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf40.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> OUR MATHEMATICAL UNIVERSE by Max Tegmark</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf41.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> GOD:THE FAILED HYPOTHESIS by VICTOR J. STENGER </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf42.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> A BRIEFER HISTORY OF TIME by Stephen Hawking & Leonard Mlodinow</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf43.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE ROAD TO REALITY by ROGER PENROSE </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf44.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Feynman Lectures on Physics, Volume I by Richard Feynman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf45.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Feynman Lectures on Physics, Volume II by Richard Feynman</p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf46.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Feynman Lectures on Physics, Volume III by Richard Feynman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf46.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> A Beautiful Mind by SYLVIA NASAR </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf48.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The strange theory of light and matter by Richard Feynman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf49.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Character of Physical Law by Richard Feynman </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf50.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Sociobiology by Edward O. Wilson </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf51.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE ANCESTOR'S TALE by RICHARD DAWKINS </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf52.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> The Time Machine by H.G.Wells </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf53.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> FAHRENHEIT 451 by Ray Bradbury </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf54.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> I, Robot by Isaac Asimov </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf55.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> Gaia. A New Look at Life on Earth by James Lovelock </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf56.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
+
+<p> THE LIVES OF A CELL by Lewis Thomas </p>
+
+<p><a href="https://github.com/manjunath5496/503-eBooks/blob/master/pdf57.pdf" target="_blank"> <font size="2" face="arial" color="blue"> Download </a></p></br>
 
